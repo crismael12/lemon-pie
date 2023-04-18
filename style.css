@@ -1,0 +1,26 @@
+body{
+   background-image: url(https://media.tenor.com/ljIvmT4h7HsAAAAM/key-lime-pie-pie.gif);
+   background-attachment: fixed;
+   font-family: 'Quicksand', sans-serif;
+}
+h1{
+    font-weight: 300;
+}
+.imgConectar{
+    
+    display: block;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+}
+p,ul,ol{
+    color: rgb(9, 5, 5);
+    font-weight:  700;
+    
+}
+h2,h3{
+    font-weight: 500;
+}
